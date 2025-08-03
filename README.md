@@ -1,7 +1,7 @@
 # Walmart_Sales
 **Exploring Walmart's sales dataset to gather insight to solve business related questions.**
 
-# Walmart Data Analysis: End-to-End SQL + Python Project P-9
+# Walmart Data Analysis: End-to-End SQL + Python Project
 
 ## Project Overview
 
